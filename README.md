@@ -17,7 +17,7 @@ Moi je ne serais pas à la maison toute la journée mais tjs up sur Team et je p
 - [X] 9h00 : Juju check les PP
 - [X] 10h00 : Zak commence es mise à jour
 - ......
-- 
+- [ ] XH00 : restarter et checker le filecheker sur Mortsel
 
 # COTE FD
 -----------------------
